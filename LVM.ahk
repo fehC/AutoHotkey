@@ -5,6 +5,8 @@
 */
 
 /*
+	hello
+	
 	LVA_ALIGNLEFT :=	0x1
 	LVA_ALIGNTOP :=	0x2
 	LVA_DEFAULT :=	0x0

@@ -1,7 +1,7 @@
 ;=====================================================================
 ;	  Title:	GridyDynamic
 ;	Version:	v2019.08.14.1 Beta
-;	 Author:	fehC ( 579f778e@gmail.com )
+;	 Author:	fehC ( fehc@megamail.me )
 ;		URL:	https://github.com/fehC
 ;		URL:	https://github.com/fehC/AutoHotkey/tree/master/GridyDynamic
 ;
